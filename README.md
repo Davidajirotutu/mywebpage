@@ -1,2 +1,2 @@
 # mywebpage
-My first attempt, this will be improve as I keep learning
+My first attempt, this will be improved as I keep learning
