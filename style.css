@@ -116,29 +116,17 @@ div{
     color:blue;
   }
 
-  .span_1{
-    margin-left:0%; 
-    margin-right:6%;
-    padding-left:0%;
-    padding-right:10%;
-    text-align:left;
+ .flex-container {
+    display: flex;
+    flex-direction: row;
   }
-
-  .span_2{
-    margin-left:3%; 
-    margin-right:3%;
-    padding-left:0%;
-    padding-right:3%;
+  
+  .flex-container > div {
+    margin-left: auto;
+    margin-right: auto;
+    
     text-align: center;
-  }
-
-  .span_3{
-    margin-left:7%; 
-    margin-right:0%;
-    padding-left:1%;
-    padding-right:0%;
-    text-align:right;
-  }
+}
 
   .slideImages {
     display:none;
