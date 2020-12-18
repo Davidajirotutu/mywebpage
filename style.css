@@ -139,6 +139,7 @@ div{
   .word-center{
     text-align: center;
     color: black;
+    font-family: poppins;
   }
   .word-display-container{position:relative}
 
